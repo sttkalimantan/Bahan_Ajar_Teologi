@@ -1,2 +1,2 @@
-# Repositori STT Kalimantan Pontianak
-Repositori ini berisi Thesis, Skripsi, Bahan Ajar dan Artikel-artikel Pendek semoga bermanfaat  
+# Repositori Bahan Ajar Prodi PAK STT Kalimantan Pontianak
+Repositori ini berisi Bahan Ajar Dosen Prodi Pendidikan Agama Kristen.
