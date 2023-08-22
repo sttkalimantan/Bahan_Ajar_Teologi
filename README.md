@@ -1,16 +1,15 @@
-# Repositori Bahan Ajar Prodi Stratum I Teologi - STT Kalimantan Pontianak
 <!DOCTYPE html>
 <html>
 <head>
-	<title>My GitHub Repository</title>
+	<title># Repositori Bahan Ajar Prodi Stratum I Teologi-STT Kalimantan Pontianak</title>
 </head>
 <body>
-	<h1>My GitHub Repository</h1>
+	<h1># Repositori Bahan Ajar Prodi Stratum I Teologi-STT Kalimantan Pontianak</h1>
 	<p>Check out my latest projects on GitHub:</p>
 	<ul>
-		<li><a href="https://github.com/username/repo1">Repo 1</a></li>
-		<li><a href="https://github.com/username/repo2">Repo 2</a></li>
-		<li><a href="https://github.com/username/repo3">Repo 3</a></li>
+		<li><a href="https://github.com/username/penelitian">Penelitian</a></li>
+		<li><a href="https://github.com/username/Bahan_Ajar_Teologi">Bahan Ajar Teologi</a></li>
+		<li><a href="https://github.com/username/Bahan_Ajar_PAK">Bahan Ajar PAK</a></li>
 	</ul>
 	<?php
 		// PHP code to display the last commit message for a repository
