@@ -7,9 +7,9 @@
 	<h1># Repositori Bahan Ajar Prodi Stratum I Teologi-STT Kalimantan Pontianak</h1>
 	<p>Check out my latest projects on GitHub:</p>
 	<ul>
-		<li><a href="https://github.com/username/penelitian">Penelitian</a></li>
-		<li><a href="https://github.com/username/Bahan_Ajar_Teologi">Bahan Ajar Teologi</a></li>
-		<li><a href="https://github.com/username/Bahan_Ajar_PAK">Bahan Ajar PAK</a></li>
+		<li><a href="https://github.com/sttkalimantan/penelitian">Penelitian</a></li>
+		<li><a href="https://github.com/sttkalimantan/Bahan_Ajar_Teologi">Bahan Ajar Teologi</a></li>
+		<li><a href="https://github.com/sttkalimantan/Bahan_Ajar_PAK">Bahan Ajar PAK</a></li>
 	</ul>
 	<?php
 		// PHP code to display the last commit message for a repository
